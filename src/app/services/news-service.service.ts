@@ -7,7 +7,7 @@ import {News} from '../News';
   providedIn: 'root'
 })
 export class NewsServiceService {
-  private baseUrl = 'http://localhost:8080/news';
+  private baseUrl = 'https://dw-news-api.herokuapp.com/news';
 
   constructor(private httpClient: HttpClient) { }
 
