@@ -1,0 +1,11 @@
+body {
+  width: 1400px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #212121;
+}
+
+app-news-gui {
+  width: 100%;
+  margin: 0 auto;
+}
